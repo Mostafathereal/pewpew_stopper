@@ -1,5 +1,7 @@
 # pewpew_stopper 
 
+![](assets/no_guns.png)
+
 ## End-to-End solution to detecting handguns 
 - Data preprocessing and augmentation on RoboFlow
 - YoloV4 (PyTorch) is trained on a pistol dataset using Colab (bless you Google and your infinite cash pile) 
