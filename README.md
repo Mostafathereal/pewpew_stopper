@@ -1,6 +1,6 @@
-# pewpew_stopper 
+# pewpew_stopper  ![](assets/no_guns.png)
 
-![](assets/no_guns.png)
+
 
 ## End-to-End solution to detecting handguns 
 - Data preprocessing and augmentation on RoboFlow
